@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\bin\Debug\net10.0\ArbolBST.exe
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\bin\Debug\net10.0\ArbolBST.deps.json
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\bin\Debug\net10.0\ArbolBST.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\bin\Debug\net10.0\ArbolBST.dll
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\bin\Debug\net10.0\ArbolBST.pdb
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.dll
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\refint\ArbolBST.dll
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.pdb
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ArbolBST.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\ED_NOA_2026\ArbolBST\obj\Debug\net10.0\ref\ArbolBST.dll
